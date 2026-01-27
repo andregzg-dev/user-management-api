@@ -51,16 +51,20 @@
     └─ README.md
 
 ⚙️ How to Run the Project
+    
     1️⃣ Clone the repository
         git clone https://github.com/your-username/login-system-js.git
+    
     2️⃣ Install dependencies
         npm install
+    
     3️⃣ Start the server
         node server.js
             The server will run at:
              http://localhost:3000
 
 🔑 API Endpoints
+    
     🟢 Register User
         POST /register
 
@@ -90,6 +94,7 @@
             }
 
 🔒 Protected Route
+   
     GET /profile
         Headers:
             Authorization: Bearer JWT_TOKEN
