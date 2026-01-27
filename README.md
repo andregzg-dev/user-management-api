@@ -1,3 +1,4 @@
+This project was built as a learning and portfolio project.
 🔐 User Management API (Node.js + Express + JWT)
 
     A simple and secure User Management API built with Node.js, Express, and JWT authentication.
